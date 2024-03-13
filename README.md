@@ -3,4 +3,4 @@
 ## Enjoy 
 
 ## Full Changelog Alpha-V.1 ##
-{ V.1 }(https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
+{V.1}(https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
