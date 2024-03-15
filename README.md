@@ -3,6 +3,7 @@
 ## Enjoy 
 ## I Dont Open Donate ( All My Share For Free )
 ## You Can Donate From Official Developer Suyu
+## You Dont Like My Build ? Please Dont Use & Wait Dev Suyu Official Release
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
