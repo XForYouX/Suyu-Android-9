@@ -1,6 +1,8 @@
 ## Suyu For Android 9 / 10 ( Recomannded Android 10 )
 ## Suyu Support : Android 10 - 14
 ## Enjoy 
+## I Dont Open Donate ( All My Share For Free )
+## You Can Donate From Official Developer Suyu
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
