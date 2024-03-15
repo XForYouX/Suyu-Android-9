@@ -3,10 +3,10 @@
 ## Enjoy 
 
 ## Full Changelog Alpha-V.1 ##
-(https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
+[Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
-## Full Changelog NCE-V.2 ##
-(https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.2)
+## Full Changelog NCE-V.4 ##
+[NCE-V.4](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.4)
 
 ## Github Official Suyu Emulator ( You Can Reverse & Build )
 [Github Official](https://github.com/suyu-emu/suyu)
