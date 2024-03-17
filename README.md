@@ -17,6 +17,9 @@
 ## Full Changelog Q-Laucher V.1 ##
 [Qlauncher V.1](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Qlauncher-V.1)
 
+## How Fix Issue Alert Encryption
+[How Fix Issue Alert Encryption](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Issue)
+
 ## Github Official Suyu Emulator ( You Can Reverse & Build )
 [Github Suyu Official](https://github.com/suyu-emu/suyu)
 
