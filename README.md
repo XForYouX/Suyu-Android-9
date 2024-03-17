@@ -20,10 +20,10 @@
 ## How Fix Issue Alert Encryption
 [How Fix Issue Alert Encryption](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Issue)
 
-## Github Official Suyu Emulator ( You Can Reverse & Build )
+## Github Official Suyu Emulator ( You Can Reverse & Build Private )
 [Github Suyu Official](https://github.com/suyu-emu/suyu)
 
-## Gitlab Official Suyu Emulator ( You Can Reverse & Build )
+## Gitlab Official Suyu Emulator ( You Can Reverse & Build Private )
 [Gitlab Suyu Official](https://gitlab.com/suyu-emu/suyu)
 
 ## Website Official Suyu Emulator ( You Can Get Some Information From Suyu Official Developer )
