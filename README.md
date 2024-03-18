@@ -5,7 +5,7 @@
 ## Enjoy 
 ## I Dont Open Donate ( All My Share For Free )
 ## You Can Donate From Official Developer Suyu
-## You Dont Like My Build ? Please Dont Use & Use Dev Suyu Official Release
+## You Dont Like My Build ? Please Dont Use & Use Suyu Official Release
 ## Im Dev Suyu? You Wrong , Im For Helping Build Suyu For You & You Dont Like? Dont Use & Wait Dev Suyu Official Release
 ## Me Stupid? Yes , Im User Noob & No Master Or Pro User & Me Always learn to be better
 
