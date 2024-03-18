@@ -21,7 +21,7 @@
 ## How Fix Issue Alert Encryption
 [How Fix Issue Alert Encryption](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Issue)
 
-## Suyu Official Release ( Not Support Android 10 )
+## Suyu Official Release ( Not Support Android 10 ) ( closed )
 [Suyu Official Release](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master/3f178ae15ef039266fade3970d042b1463dc20a3?ref_type=heads)
 
 ## Github Official Suyu Emulator ( You Can Reverse & Build Private )
