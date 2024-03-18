@@ -30,5 +30,8 @@
 ## Gitlab Official Suyu Emulator ( You Can Reverse & Build Private )
 [Gitlab Suyu Official](https://gitlab.com/suyu-emu/suyu)
 
-## Website Official Suyu Emulator ( You Can Get Some Information From Suyu Official Developer )
+## Website Official Suyu Emulator ( You Can Get Some Information From Website Suyu Official Developer )
 [Web Suyu Offcial](https://suyu.dev)
+
+## Discord Official Suyu Emulator ( You Can Get Some Information From Suyu Discord Official Developer )
+[Discord Suyu Offcial](https://discord.gg/suyu)
