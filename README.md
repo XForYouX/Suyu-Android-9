@@ -33,5 +33,5 @@
 ## Website Official Suyu Emulator ( You Can Get Some Information From Website Suyu Official Developer )
 [Web Suyu Offcial](https://suyu.dev)
 
-## Discord Official Suyu Emulator ( You Can Get Some Information From Suyu Discord Official Developer )
+## Discord Official Suyu Emulator ( You Can Get Some Information From Discord Suyu Official Developer )
 [Discord Suyu Offcial](https://discord.gg/suyu)
