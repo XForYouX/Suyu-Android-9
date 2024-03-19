@@ -8,12 +8,14 @@
 ## You Dont Like My Build ? Please Dont Use & Wait Dev Suyu Official Release
 ## Im Dev Suyu? You Wrong , Im For Helping Build Suyu For You & You Dont Like? Dont Use & Wait Dev Suyu Official Release
 ## Me Stupid? Yes , Im User Noob & No Master Or Pro User & Me Always learn to be better
+## Why Changelog Not Focus To Update Android ? Because Im Follow Update Latest From Gitlab Suyu Official
+## Im Focus Update Latest from base dev ( no alpha , no beta , no master )
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
-## Full Changelog NCE-V.15 ##
-[NCE-V.14](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.15)
+## Full Changelog NCE-V.16 ##
+[NCE-V.16](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.16)
 
 ## Full Changelog Q-Laucher V.1 ##
 [Qlauncher V.1](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Qlauncher-V.1)
