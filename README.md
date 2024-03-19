@@ -18,7 +18,7 @@
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
 ## Full Changelog NCE-V.17 ##
-[NCE-V.16](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.17)
+[NCE-V.17](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.17)
 
 ## Full Changelog Q-Laucher V.1 ##
 [Qlauncher V.1](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Qlauncher-V.1)
