@@ -6,10 +6,12 @@
 ## I Dont Open Donate ( All My Share For Free )
 ## You Can Donate From Official Developer Suyu
 ## You Dont Like My Build ? Please Dont Use & Wait Dev Suyu Official Release
-## Im Dev Suyu? You Wrong , Im For Helping Build Suyu For You & You Dont Like? Dont Use & Wait Dev Suyu Official Release
+## Im Dev Suyu? You Wrong , Im For Helper Build Suyu For You & You Dont Like? Dont Use & Wait Dev Suyu Official Release
 ## Me Stupid? Yes , Im User Noob & No Master Or Pro User & Me Always learn to be better
 ## Why Changelog Not Focus To Update Android ? Because Im Follow Update Latest From Gitlab Suyu Official
 ## Im Focus Update Latest from base dev ( no alpha , no beta , no master )
+## Im Focus Share To Android Only ( No Windows , More ) ( You can get more version from gitlab )
+## Im Focus Build For Android 10-14 
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
