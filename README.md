@@ -10,8 +10,8 @@
 ## Me Stupid? Yes , Im User Noob & No Master Or Pro User & Me Always learn to be better
 ## Why Changelog Not Focus To Update Android ? Because Im Follow Update Latest From Gitlab Suyu Official
 ## Im Focus Update Latest from base dev ( no alpha , no beta , no master )
-## Im Focus Share To Android Only ( No Windows , More ) ( You can get more version from gitlab )
-## Im Focus Build For Android 10-14 
+## Im Focus Share Suyu To Android Only ( No Windows , More ) ( You can get more version from gitlab )
+## Im Focus Build Suyu For Android 10-14 
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
