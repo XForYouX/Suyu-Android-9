@@ -20,8 +20,8 @@
 ## Full Changelog NCE-V.18 ##
 [NCE-V.18](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.18)
 
-## Suyu Official Release
-[Suyu Official Release](https://gitlab.com/suyu-emu/suyu/-/jobs/artifacts)
+## Suyu Official Release V.1
+[Suyu Official Release](https://gitlab.com/suyu-emu/suyu/-/jobs/artifacts/v0.0.1-master/download?job=android)
 
 ## Github Official Suyu Emulator ( You Can Reverse & Build Private )
 [Github Suyu Official](https://github.com/suyu-emu/suyu)
