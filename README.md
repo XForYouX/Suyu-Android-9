@@ -3,7 +3,7 @@
 ## Suyu Support : Android 10 - 14 ( Min Android 9 )
 ## My Build Always Follow Latest Update From Gitlab Suyu Official 
 ## Enjoy 
-## I Dont Open Donate ( All My Share For Free )
+## Im Dont Open Donate ( All My Share For Free )
 ## You Can Donate From Official Developer Suyu
 ## You Dont Like My Build ? Please Dont Use & Wait Dev Suyu Official Release
 ## Im Dev Suyu? You Wrong , Im For Helper Build Suyu For You & You Dont Like? Dont Use & Wait Dev Suyu Official Release
