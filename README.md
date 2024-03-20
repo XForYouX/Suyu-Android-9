@@ -17,14 +17,8 @@
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
-## Full Changelog NCE-V.17 ##
-[NCE-V.17](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.17)
-
-## Full Changelog Q-Laucher V.1 ##
-[Qlauncher V.1](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Qlauncher-V.1)
-
-## How Fix Issue Alert Encryption ( Done Fix )
-[How Fix Issue Alert Encryption](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Issue)
+## Full Changelog NCE-V.18 ##
+[NCE-V.18](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.18)
 
 ## Suyu Official Release ( closed )
 [Suyu Official Release](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master/3f178ae15ef039266fade3970d042b1463dc20a3?ref_type=heads)
