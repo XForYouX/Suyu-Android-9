@@ -40,6 +40,7 @@ jobs:
         makeLatest: true
         skipIfReleaseExists: true
         prerelease: true
+        updateOnlyUnreleased: true
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
