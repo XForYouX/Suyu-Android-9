@@ -41,6 +41,9 @@ jobs:
         skipIfReleaseExists: true
         prerelease: true
         updateOnlyUnreleased: true
+        omitName: true
+        omitNameDuringUpdate: true
+        omitPrereleaseDuringUpdate: true
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
