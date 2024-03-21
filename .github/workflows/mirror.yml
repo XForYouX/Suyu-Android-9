@@ -1,4 +1,4 @@
-name: Mirror Gitlab
+name: Mirror Release Gitlab From Suyu Official
 
 on:
   schedule:
