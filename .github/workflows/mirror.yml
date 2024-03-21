@@ -1,6 +1,8 @@
 name: Mirror Gitlab
 
 on:
+  schedule:
+    - cron: "* * * * *"
   workflow_dispatch:
    inputs:
       android:
