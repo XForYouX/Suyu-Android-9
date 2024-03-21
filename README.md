@@ -24,14 +24,5 @@
 ## Suyu Official Early Release 
 [Suyu Official Release](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master)
 
-## Github Official Suyu Emulator ( You Can Reverse & Build Private )
-[Github Suyu Official](https://github.com/suyu-emu/suyu)
-
-## Gitlab Official Suyu Emulator ( You Can Reverse & Build Private )
-[Gitlab Suyu Official](https://gitlab.com/suyu-emu/suyu)
-
-## Website Official Suyu Emulator ( You Can Get Some Information From Website Suyu Official Developer )
-[Web Suyu Offcial](https://suyu.dev)
-
 ## Discord Official Suyu Emulator ( You Can Get Some Information From Discord Suyu Official Developer )
 [Discord Suyu Offcial](https://discord.gg/suyu)
