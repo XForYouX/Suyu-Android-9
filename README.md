@@ -21,7 +21,7 @@
 [NCE-V.20](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.20)
 
 ## Suyu Official Release 
-[Suyu Official Release](https://gitlab.com/suyu-emu/suyu/-/releases/)
+[Suyu Official Release](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master)
 
 ## Github Official Suyu Emulator ( You Can Reverse & Build Private )
 [Github Suyu Official](https://github.com/suyu-emu/suyu)
