@@ -23,7 +23,7 @@ jobs:
     - name: Release Info
       id: info
       run: |
-        response=$(curl -s "https://gitlab.com/api/v4/projects/suyu-emu%2Fsuyu/releases")
+        response=$(curl -s "https://gitlab.com/suyu-emu/suyu-releases/-/tree/master")
         name=$(echo "$response" | jq -r '.[0].name')
         links=$(echo "$response" | jq -r '.[0].assets.links[]? | select(has("url") and has("name")) | "- [\(.name)](\(.url))"')
         echo "::set-output name=name::$name"
