@@ -26,7 +26,7 @@ jobs:
         response=$(curl -s "https://gitlab.com/api/v4/projects/suyu-emu%2Fsuyu/releases")
         name=$(echo "$response" | jq -r '.[0].name')
         tag=$(echo "$response" | jq -r '.[0].tag_name')
-        branch=$(echo "response" | jq -r ',[0].ref')
+        branch=$(echo "response" | jq -r ',[0].ref_name')
         description=$(echo "$response" | jq -r '.[0].description')
         links=$(echo "$response" | jq -r '.[0].assets.links[]? | select(has("url") and has("name")) | "- [\(.name)](\(.url))"')
         echo "::set-output name=name::$name"
