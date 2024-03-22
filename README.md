@@ -1,7 +1,7 @@
 ## Suyu Open Source ( You Can Build Private )
 ## Suyu For Android 9 / 10 ( Recomannded Android 10 )
 ## Suyu Support : Android 10 - 14 ( Min Android 9 )
-## My Build Always Follow Latest Update From Gitlab Suyu Official 
+## My Build Always Follow Latest Update From Suyu Official 
 ## Enjoy 
 ## Im Dont Open Donate ( All My Share For Free )
 ## You Can Donate From Official Developer Suyu
@@ -13,7 +13,6 @@
 ## Im Focus Share Suyu To Android Only ( No Windows , More ) ( You can get more version from gitlab , github , website,discord official suyu )
 ## Im Focus Build Suyu For Android 10-14 
 ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can
-## Im Add Bot To Get Release Latest From Suyu Official Gitlab ( Branch master )
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
