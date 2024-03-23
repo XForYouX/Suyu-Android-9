@@ -47,7 +47,7 @@ jobs:
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
 
-    release:
+release:
     name: Release APK
     needs: apk
     if: startsWith(github.ref, 'refs/tags/v')
