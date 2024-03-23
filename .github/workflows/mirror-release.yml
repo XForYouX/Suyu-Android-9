@@ -32,7 +32,7 @@ jobs:
         echo "::set-output name=name::$name"
         echo "::set-output name=tag::$name"
 
-        echo "## Changes" > description.txt
+        echo "## Changelog" > description.txt
         echo "${description}" >> description.txt
         echo "## Downloads" >> description.txt
         echo "${links}" >> description.txt
