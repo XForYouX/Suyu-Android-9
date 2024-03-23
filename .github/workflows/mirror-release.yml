@@ -23,7 +23,7 @@ jobs:
     - name: Release Info
       id: info
       run: |
-        response=$(curl -s "https://git.suyu.dev/api/v4/projects/suyu%2Fsuyu/releases/download")
+        response=$(curl -s "https://git.suyu.dev/suyu/suyu/releases/download")
         name=$(echo "$response" | jq -r '.[0].name')
         tag=$(echo "$response" | jq -r '.[0].tag_name')
         description=$(echo "$response" | jq -r '.[0].description')
