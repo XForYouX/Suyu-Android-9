@@ -36,6 +36,7 @@ jobs:
         echo "${description}" >> description.txt
         echo "## Downloads" >> description.txt
         echo "${links}" >> description.txt
+        echo "## Not Support Android 10" >>description.txt
 
     - name: Create Release
       uses: ncipollo/release-action@v1
