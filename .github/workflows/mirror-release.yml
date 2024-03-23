@@ -47,8 +47,8 @@ jobs:
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
-
-    - name: Upload Release APK
-        id: upload_release_asset
-        uses: actions/upload-release-asset@v1.0.1
-        
+    - name: Releasing using Hub
+      uses: kyze8439690/action-release-releaseapk@master
+      env:
+       GITHUB_TOKEN: ${{ secrets.TOKEN }}
+       APP_FOLDER: app
