@@ -47,4 +47,14 @@ jobs:
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
+
+    - name: Upload Release APK
+        id: upload_release_asset
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          asset_path: apk/app-mainline-release.apk
+          asset_name: app-mainline-release.apk
+          asset_content_type: application/zip
         
