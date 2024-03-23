@@ -1,0 +1,44 @@
+name: Mirror Release Gitlab From Suyu Official
+
+on:
+  schedule:
+    - cron: "* * * * *"
+  workflow_dispatch:
+   inputs:
+      android:
+        description: 'Whether to trigger an Android build (true/false/auto)'
+        required: false
+        default: 'true'
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    
+    permissions: write-all
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Release Info
+      id: info
+      run: |
+        response=$(curl -s "https://git.suyu.dev/api/v4/projects/suyu%2Fsuyu/releases/")
+        name=$(echo "$response" | jq -r '.[0].name')
+        tag=$(echo "$response" | jq -r '.[0].tag_name')
+        description=$(echo "$response" | jq -r '.[0].description')
+        links=$(echo "$response" | jq -r '.[0].assets.links[]? | select(has("url") and has("name")) | "- [\(.name)](\(.url))"')
+        echo "::set-output name=name::$name"
+        echo "::set-output name=tag::$name"
+        echo "## Changes" > description.txt
+        echo "${description}" >> description.txt
+        echo "## Downloads" >> description.txt
+        echo "${links}" >> description.txt
+    - name: Create Release
+      uses: ncipollo/release-action@v1
+      with:
+        makeLatest: true
+        skipIfReleaseExists: true
+        tag: ${{ steps.info.outputs.tag }}
+        name: ${{ steps.info.outputs.name }}
+        bodyFile: "description.txt"
