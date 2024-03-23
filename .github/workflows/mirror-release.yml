@@ -43,7 +43,7 @@ jobs:
       with:
         makeLatest: true
         skipIfReleaseExists: true
-        artifacts: true
+        replacesArtifacts: true
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
