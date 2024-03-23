@@ -43,11 +43,8 @@ jobs:
       with:
         makeLatest: true
         skipIfReleaseExists: true
+        artifacts: true
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
         bodyFile: "description.txt"
-        asset_path: apk/app-mainline-release.apk
-          asset_name: app-mainline-release.apk
-          asset_content_type: application/zip
+        
