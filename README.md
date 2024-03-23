@@ -20,8 +20,11 @@
 ## Full Changelog NCE-V.21 ##
 [NCE-V.21](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.21)
 
-## Suyu Official Release 
-[Suyu Official Release](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master)
+## Suyu Official Release  ( OLD )
+[Suyu Official Release ( OLD )](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master)
+
+## Suyu Official Release ( New )
+[Suyu Official Release ( New )](https://git.suyu.dev/suyu/suyu/releases/)
 
 ## Discord Suyu Official Emulator ( You Can Get Some Information From Discord Suyu Official Developer )
 [Discord Suyu Offcial](https://discord.gg/suyu)
