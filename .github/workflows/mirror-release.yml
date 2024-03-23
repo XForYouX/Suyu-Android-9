@@ -36,14 +36,13 @@ jobs:
         echo "${description}" >> description.txt
         echo "## Downloads" >> description.txt
         echo "${links}" >> description.txt
-        echo "## Not Support Android 10" >>description.txt
+        echo "## Not Support Android 10" >> description.txt
 
     - name: Create Release
       uses: ncipollo/release-action@v1
       with:
         makeLatest: true
         skipIfReleaseExists: true
-        replacesArtifacts: true
         tag: ${{ steps.info.outputs.tag }}
         name: ${{ steps.info.outputs.name }}
         bodyFile: "description.txt"
