@@ -28,7 +28,6 @@ jobs:
         description=$(echo "$response" | jq -r '.[0].description')
         links=$(echo "$response" | jq -r '.[0].assets.links[]? | select(has("url") and has("name")) | "- [\(.name)](\(.url))"')
         echo "::set-output name=name::$name"
-        echo "::set-output name=tag::$name"
         echo "## Changes" > description.txt
         echo "${description}" >> description.txt
         echo "## Downloads" >> description.txt
