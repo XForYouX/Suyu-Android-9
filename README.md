@@ -1,4 +1,4 @@
- ~~~
+
 | ## Suyu Open Source ( You Can Build Private ) |
 | ## Suyu For Android 9 / 10 ( Recomannded Android 10 ) |
 | ## Suyu Support : Android 10 - 14 ( Min Android 9 ) |
@@ -15,9 +15,9 @@
 | ## Im Focus Build Suyu For Android 10-14 |
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 
-~~~
 
-~~~
+
+
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
@@ -35,5 +35,3 @@
 
 ## Website Suyu Official ( You Can Get Some Information From Website Suyu Official )
 [Website Suyu Official](https://suyu.dev)
-
-~~~
