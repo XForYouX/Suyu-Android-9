@@ -21,8 +21,8 @@
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
-## Full Changelog NCE-V.23 ##
-[NCE-V.23](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.23)
+## Full Changelog NCE-V.24 ##
+[NCE-V.24](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.24)
 
 ## Suyu Official Release  ( OLD )
 [Suyu Official Release ( OLD )](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master)
