@@ -9,9 +9,9 @@
 | ## You Dont Like My Build ? Please Dont Use & Use Suyu Official Release |
 | ## Im Dev Suyu? You Wrong , Im For Helper Build Suyu For You & You Dont Like? Dont Use & Use Suyu Official Release |
 | ## Me Stupid? Yes , Im User Noob & No Master Or Pro User & Me Always learn to be better |
-| ## Why Changelog Not Focus To Update Android ? Because Im Follow Update Latest From Gitlab Suyu Official |
+| ## Why Changelog Not Focus To Update Android ? Because Im Follow Update Latest From Suyu Official |
 | ## Im Focus Update Latest from base dev ( no alpha , no beta , no master ) |
-| ## Im Focus Share Suyu To Android Only ( No Windows , More ) ( You can get more version from gitlab , github , website,discord official suyu ) |
+| ## Im Focus Share Suyu To Android Only ( No Windows , More ) ( You can get more version from git,gitlab,github, website,discord official suyu ) |
 | ## Im Focus Build Suyu For Android 10-14 |
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 
