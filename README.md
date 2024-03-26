@@ -7,7 +7,7 @@
 | ## Im Dont Open Donate ( All My Share For Free ) |
 | ## You Can Donate From Official Developer Suyu |
 | ## You Dont Like My Build ? Please Dont Use & Use Suyu Official Release |
-| ## Im Dev Suyu? You Wrong , Im For Helper Build Suyu For You & You Dont Like? Dont Use & Use Suyu Official Release |
+| ## Im Dev Suyu? You Wrong , Im Helper Build Suyu For You & You Dont Like? Dont Use & Use Suyu Official Release |
 | ## Me Stupid? Yes , Im User Noob & No Master Or Pro User & Me Always learn to be better |
 | ## Why Changelog Not Focus To Update Android ? Because Im Follow Update Latest From Suyu Official |
 | ## Im Focus Update Latest from base dev ( no alpha , no beta , no master ) |
